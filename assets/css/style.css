@@ -246,13 +246,13 @@ h1, h2, h3, h4, h5, h6 {
   
   #hero .hero-container {
     position: relative;
-    left: 120px; ;
+    left: 20%; ;
     z-index: 2;
     min-width: 300px; }
   #hero h1 {
-    font-size: 35px;
-    line-height: 25px;
-    left: 120px; ;
+    font-size: 30px;
+    line-height: 35px;
+    left: 1px; ;
   }
   #hero h2 {
     font-size: 18px;
@@ -262,7 +262,7 @@ h1, h2, h3, h4, h5, h6 {
   #hero p {
     color: #fff;
     margin-bottom: 50px;
-    margin-Right : 25% ;
+    margin-Right : 20% ;
     font-size: 20px;
     font-family: "Poppins", sans-serif;
   }
